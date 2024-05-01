@@ -9,6 +9,7 @@ public class KubernetesTestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KubernetesTestApplication.class, args);
 		System.out.println("KkubernetesTestApplication.main()");
+		System.out.println("Hello paddu");
 	}
 
 }
